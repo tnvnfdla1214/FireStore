@@ -23,9 +23,9 @@ Firestore는 컬렉션(Collection)과 문서(Documents)가 있고, 문서내엔 
 
 
  + [Malang](https://github.com/tnvnfdla1214/Malang)
-  + 유저
-  + 캘린더
-  + 커플
+   + 유저
+   + 캘린더
+   + 커플
 
 ***
 
